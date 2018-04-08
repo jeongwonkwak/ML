@@ -6,8 +6,8 @@ ML Related Resources
 
 ## Linear Algebra Review
 - [x] https://classroom.udacity.com/courses/ud953/
-- [] http://www.cs.cmu.edu/~zkolter/course/15-884/linalg-review.pdf
+- [ ] http://www.cs.cmu.edu/~zkolter/course/15-884/linalg-review.pdf
 
 ## Machine Learning Concepts
 - [x] https://www.coursera.org/learn/machine-learning
-- [] https://web.stanford.edu/~hastie/Papers/ESLII.pdf
+- [ ] https://web.stanford.edu/~hastie/Papers/ESLII.pdf
