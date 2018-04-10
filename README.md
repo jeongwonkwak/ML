@@ -11,3 +11,6 @@ ML Related Resources
 ## Machine Learning Concepts
 - [x] https://www.coursera.org/learn/machine-learning
 - [ ] https://web.stanford.edu/~hastie/Papers/ESLII.pdf
+
+## Machine Learning Practice
+- [ ] https://classroom.udacity.com/nanodegrees/nd009t/syllabus/core-curriculum (expensive, but a project based approach that could be beneficial)
