@@ -1,5 +1,5 @@
 # ML
-ML Related Resources
+ML related resources, tutorials, and other materials to explore machine learning
 
 ## Probability and Stats Review
 - [x] http://www.kevjohnson.org/pdfs/Probability_and_Stats_Refresher.pdf
