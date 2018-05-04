@@ -66,4 +66,7 @@
 - Answer: We can make a grid of all the value combinations of hyperparameters, pick the one with the highest F1 score, and use testing set.
 - https://cl.ly/250d3G0S1r1B
 
+### Grid Search
+- If there are multiple hyperparameters that we want to compare, we might want to use Grid Search, a method that allows us to make combinations of possible hyperparameters that we can then cross-validate and select from.
+
 

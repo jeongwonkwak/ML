@@ -30,5 +30,5 @@
 
 ## R2 Score
 - A measurement of the goodness of a regression model. Specifically, it's calculated as 1 - (MSE of model / MSE of simplest possible model) (where the simplest possible model is just an average of all the values). R2 will be close to 1 if the model is good. If R2 is close to 0, the model is bad.
-
+- This is also refered to as the coefficient of detemination. It is very useful for regression analysis. This value can be interpreted as the percentage of the variance of the dependent variable that can be predicted from the independent variable.
 
