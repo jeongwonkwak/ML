@@ -1,6 +1,9 @@
 # ML
 ML related resources, tutorials, and other materials to explore machine learning
 
+## Running Notebooks
+- Using python2.7, `pip install -r requirements.txt`
+
 ## Probability and Stats Review
 - [x] http://www.kevjohnson.org/pdfs/Probability_and_Stats_Refresher.pdf
 
