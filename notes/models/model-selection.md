@@ -58,7 +58,7 @@
 - Parameters are the nodes and leaves and thresholds, etc.
 
 1) Learn the parameters with training data
-2) Use F1 score for cross validatino
+2) Use F1 score for cross validation
 3) Test with testing data
 
 ### Training an SVM (something with multiple hyperparameters)
