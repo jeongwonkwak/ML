@@ -21,3 +21,5 @@
 - 3) Make the naive assumption: P('easy', 'money', 'cheap' | Spam) = P('easy' | Spam) * P('money' | Spam) * P('cheap' * Spam)
 - 4) Do this for both P(Spam | words) and P(Not Spam | words) and get two values, then normalize the results to get the true probabilities
 
+### Generalizing to Higher Classes
+- Generalizing to higher dimensions is pretty trivial with naive bayes: we basically just find the conditional proportional probability of each class and normalize them to get the true probability.
