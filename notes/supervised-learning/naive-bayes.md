@@ -23,3 +23,10 @@
 
 ### Generalizing to Higher Classes
 - Generalizing to higher dimensions is pretty trivial with naive bayes: we basically just find the conditional proportional probability of each class and normalize them to get the true probability.
+
+## Advantages of Naive Bayes
+- Can handle a large number of features
+- Performs well even with the presence of irrelevant features
+- Relatively simple
+- Rarely overfits data
+- Fast training and prediction times
