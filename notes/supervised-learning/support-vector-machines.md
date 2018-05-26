@@ -1,5 +1,5 @@
 # Support Vector Machines
-An SVM is an algorithm that tries to find the line that best separates the data. Generally speaking, SVMs pick decision boundaries that are furthest away from the points.
+An SVM is an algorithm that tries to find the hyperplane that best separates the data. Generally speaking, SVMs pick decision boundaries that are furthest away from the points.
 
 ## Maximizing the Margin
 - We can think of our desired split in data as maximizing the moargin of space between the two sets of points. For e.g., https://cl.ly/0O420c2E2V2K
@@ -40,6 +40,9 @@ An SVM is an algorithm that tries to find the line that best separates the data.
 - We can tune how wide or narrow each radial basis is with the gamma parameter, which we tune during training. A large gamma corresponds to narrow peaks, a small gamma to wide peaks.
 - Conceptually, if a peak is narrow, then it will cover less area when spliting data (it may cover less points). A wide peak will cover a larger amount of points. https://cl.ly/43471H1E122P
 - Large gamma tend to overfit, small tend to underfit
+- gamma determines the distance a single data sample exerts influence.
+That is, the gamma parameter can be said to adjust the curvature of the decision boundary.
+- The larger the gamma, the smaller the curvature.
 - Gamma is defined thusly https://cl.ly/0Q1p2L1e3s1A
 
 ## RBF versus Polynomial Kernels
