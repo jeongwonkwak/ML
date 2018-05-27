@@ -2,8 +2,8 @@
 An SVM is an algorithm that tries to find the hyperplane that best separates the data. Generally speaking, SVMs pick decision boundaries that are furthest away from the points.
 
 ## Maximizing the Margin
-- We can think of our desired split in data as maximizing the moargin of space between the two sets of points. For e.g., https://cl.ly/0O420c2E2V2K
-- Of course, data isn't usually prettily split like that. Instead, there are bound to be missclassified points on either side of the decision boundary, as well as points within the margin. We want to avoid both those situations, so our new error function will be something to the affect of Error = Classification Error + Margin Error. https://cl.ly/1s0i332d370B
+- We can think of our desired split in data as maximizing the margin of space between the two sets of points. For e.g., https://cl.ly/0O420c2E2V2K
+- Of course, data isn't usually prettily split like that. Instead, there are bound to be misclassified points on either side of the decision boundary, as well as points within the margin. We want to avoid both those situations, so our new error function will be something to the affect of Error = Classification Error + Margin Error. https://cl.ly/1s0i332d370B
 
 ### Building an error function
 
